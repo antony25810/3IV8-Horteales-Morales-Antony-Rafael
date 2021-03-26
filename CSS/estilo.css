@@ -1,0 +1,37 @@
+.logo{
+    width: 200px;
+    height: 200px;
+    border: 10px solid rgb(19, 15, 53);
+    border-radius: 1rem;
+}
+
+.titulo{
+    background-image: url("metro.jpg");
+    background-size: cover;
+    border: 10px solid rgb(19, 15, 53);
+    border-radius: 1rem;
+}
+
+.tema{
+    border: 10px solid rgb(39, 66, 153);
+    border-radius: 1rem;
+    background-color: rgb(39, 66, 153);
+    font-family: 'Train One', cursive;
+    margin: 2rem;
+    color: rgb(250, 128, 15);
+}
+
+.principal{
+    font-family: 'Syne Mono', monospace;
+    color: rgb(130, 156, 33);
+}
+
+.historia{
+    border: 10px solid rgb(39, 66, 153);
+    border-radius: 1rem;
+    margin: 2rem;
+}
+
+.thistoria{
+    margin: 2rem;
+}
