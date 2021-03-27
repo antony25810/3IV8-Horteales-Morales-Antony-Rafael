@@ -23,15 +23,50 @@
 
 .principal{
     font-family: 'Syne Mono', monospace;
-    color: rgb(130, 156, 33);
+    color: rgb(63, 116, 19);
 }
 
 .historia{
-    border: 10px solid rgb(39, 66, 153);
-    border-radius: 1rem;
     margin: 2rem;
 }
 
-.thistoria{
+.tablas{
     margin: 2rem;
+}
+
+
+p{
+    text-align: justify;
+}
+
+.pies{
+    align-content: center;
+    background-color: rgb(39, 66, 153);
+    margin: 0;
+    width: 100%;
+}
+
+.logo_final{
+    text-align: center;
+    color: rgb(13, 63, 3);
+}
+
+.mitos{
+    font-family: 'Rajdhani', sans-serif;
+    margin: 1rem;
+}
+
+.creditos{
+    align-content: center;
+    color: rgb(6, 26, 3);
+}
+
+.barra{
+    align-content: center;
+    margin: 2rem;
+    margin-left: 500px;
+}
+
+body{
+    background-color: rgb(255, 177, 104);
 }
